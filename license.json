@@ -1,0 +1,6 @@
+{
+    "mining":[
+        "testmining.test",
+        "mininggpt.test"
+    ]
+}
