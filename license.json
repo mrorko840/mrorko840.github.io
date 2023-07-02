@@ -2,20 +2,6 @@
     "mining":[
         "testmining.test",
         "curl.test",
-        "myinvest.test5",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test",
-        "mininggpt.test"
+        "myinvest.test"
     ]
 }
