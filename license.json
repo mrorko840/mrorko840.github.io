@@ -2,6 +2,7 @@
     "mining":[
         "testmining.test",
         "curl.test",
-        "myinvest.test"
+        "myinvest.test",
+        "myinvest.demo4k.ml"
     ]
 }
