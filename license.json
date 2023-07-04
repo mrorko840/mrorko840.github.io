@@ -4,7 +4,6 @@
         "curl.test",
         "myinvest.test",
         "myinvest.demo4k.ml",
-        "hyipmax-encrypt.test",
-        "investkroger.us"
+        "hyipmax-encrypt.test"
     ]
 }
