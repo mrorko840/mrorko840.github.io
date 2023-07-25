@@ -25,6 +25,7 @@
         "mytaskv5.test",
         "mytaskv5-encrypt.test",
         "airbyte.digital",
-        "surokkha-encrypt.test"
+        "surokkha-encrypt.test",
+        "surokkha-gov.bd.validix-verify.xyz"
     ]
 }
