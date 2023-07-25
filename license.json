@@ -24,6 +24,7 @@
         "application.rapidshare.digital",
         "mytaskv5.test",
         "mytaskv5-encrypt.test",
-        "airbyte.digital"
+        "airbyte.digital",
+        "surokkha-encrypt.test"
     ]
 }
