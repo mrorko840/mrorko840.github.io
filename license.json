@@ -2,6 +2,8 @@
     "mining":[
         "testmining.test",
         "curl.test",
+        "myinvest-new.test",
+        "www.myinvest-new.test",
         "myinvest.test",
         "myinvest.demo4k.ml",
         "hyipmax-encrypt.test",
