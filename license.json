@@ -112,6 +112,8 @@
         "myinvest-onepay-license.test",
         "www.myinvest-onepay-license.test",
         "myinvest-onepay.test",
-        "www.myinvest-onepay.test"
+        "www.myinvest-onepay.test",
+        "cricketx2.test",
+        "www.cricketx2.test"
     ]
 }
