@@ -151,8 +151,12 @@
         "bhpmine.net",
         "www.bhpmine.net",
         "mitsuinvest.org",
+<<<<<<< HEAD
         "www.mitsuinvest.org",
         "mexaworld.com",
         "www.mexaworld.com"
+=======
+        "www.mitsuinvest.org"
+>>>>>>> e5d79525e6a0951f037958bad0bb5cfbe473bebd
     ]
 }
