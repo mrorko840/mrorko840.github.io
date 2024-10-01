@@ -2,6 +2,7 @@
     "mining":[
         "testmining.test",
         "curl.test",
+        "localhost:5173",
         "myinvest-new.test",
         "www.myinvest-new.test",
         "newtrading.test",
