@@ -281,7 +281,6 @@
         "www.nftbotpro.com",
         "red-demo.trxprofitmaster.com",
         "www.red-demo.trxprofitmaster.com",
-        "localhost",
-        "localhost:8000"
+        "bank_loan.test"
     ]
 }
