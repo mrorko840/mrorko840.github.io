@@ -70,6 +70,7 @@
     "myinvest-yellow.test",
     "myinvest-zapso-2.test",
     "myinvest-zapso.test",
+    "myinvest.test",
     "myinvestv3-encrypt.test",
     "myinvestv3.test",
     "mystock-api.scriptbasket.com",
